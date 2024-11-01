@@ -1,0 +1,1 @@
+{"595a91a34fa2ba4b5f4768fc500ac54d:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"7b7a30f8f9e1301c","reportUrl":"https://allure-examples.github.io/jasmine-yarn-cjs-js/1//#testresult/7b7a30f8f9e1301c","status":"passed","time":{"start":1730452465473,"stop":1730452465478,"duration":5}}]}}
